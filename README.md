@@ -13,8 +13,8 @@ The project involves using the module sqlite3, which is already included in the 
 
 ### How to run the script
 <!--Remove the below lines and add yours -->
-git clone this repository and go to this folder. Now run the file main.py via the following command:-\n
-python3 main.py
+git clone this repository and go to this folder. Now run the file main.py via the command- 
+"python3 main.py"
 
 ## *Author Name*
 <!--Remove the below lines and add yours -->
